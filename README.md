@@ -1,5 +1,6 @@
 # SDPWS-2101
-Augmented Reality in Architecture
+SD Platform Workshop Series
+Augmented Reality in Architecture II
 
 ![](https://soomeenhahm.com/wp-content/uploads/2020/12/201231_Promotion_full2-1536x768.jpg)
 https://soomeenhahm.com/shop/workshop/ar-jan21/
